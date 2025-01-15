@@ -48,4 +48,72 @@ a::before {
 
 }
 
-      
+body {
+        margin: 0; 
+        height: 100%; 
+        background: url('assets/img/preview.png') no-repeat center center; 
+        background-size: cover;
+}
+
+
+
+.subtitle {
+        align-items: baseline;
+        width: 627px;
+        height: 184px;
+        background-color: #3A4042;
+        margin-top: 116px;
+        margin-left: 91px;
+        box-shadow: 10px 10px 0px #000;
+        text-align: justify;
+
+}
+
+h1 {
+font-size: 30px;
+font-family: "press start 2p" , Arial, Helvetica, sans-serif;
+color: #516154;
+}
+
+span {
+font-size: 30px;
+font-family: "press start 2p" , Arial, Helvetica, sans-serif;
+color: #FFFFFF;
+}
+.botoes {
+        display: flex;
+}
+
+.button {
+        display: inline-flex;
+        background-color:#569351;
+        box-shadow: 5px 5px 0px #000;
+        color: #FFFFFF;
+        font-size: 20px;
+        font-family: "fira code";
+        width: 170px;
+        height: 60px;
+        margin-top: 38px;
+        margin-left: 181px;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+}
+
+.contatos {
+        display: inline-flex;
+        background-color:#569351;
+        box-shadow: 5px 5px 0px #000;
+        color: #FFFFFF;
+        font-size: 20px;
+        font-family: "fira code";
+        width: 170px ;
+        height: 60px;
+        margin-top: 38px;
+        margin-left: 112px;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        
+}
