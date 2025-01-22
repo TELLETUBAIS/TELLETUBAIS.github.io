@@ -37,17 +37,6 @@ a::before {
         background-color: #3a6836;
         transform: scale(1.05);
 }
-.BOX {
-        display: flex;
-        flex-direction: column;
-        width: 627px;
-        height: 184px;
-        background-color: #3A4042;
-        margin: 116px 722px 0px 91px;
-        box-shadow: 10px 10px 0px #000;
-        justify-items: center;
-        align-items:baseline
-}
 .linebutton {
         display: inline-flex;
         margin-top: 30px;
