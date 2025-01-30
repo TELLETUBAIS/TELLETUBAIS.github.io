@@ -4,3 +4,19 @@
     text-shadow: 5px 5px 0px #000;
     color: #ffffff;
 }
+
+.subtitle2 {
+    font-family: "press start 2p" , sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    justify-content: center;
+    display: flex;
+
+}
+.ability {
+    font-family: "press start 2p" , sans-serif;
+    font-size: 25px;
+    color: #ffffff;
+    
+    
+}

@@ -1,0 +1,43 @@
+.html {
+display: inherit;
+text-decoration: inherit;
+color: #fff;
+font-size: 40px;
+}
+.html::before{
+    content: "";
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 90px;
+    background-image: url(../../assets/img/ico_html5.png);
+}
+.html::after {
+    content: "";
+    width: 320px;
+    height: 40px; 
+    background-color: #333;
+    margin-top: 10px;
+}
+
+.css {
+    display: inherit;
+    text-decoration: inherit;
+    color: #fff;
+    font-size: 40px;
+}
+.css::before {
+    content: "";
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 90px;
+    background-image: url(../../assets/img/ico_css3.png);
+}
+.progressbar{
+    display: flex;
+    width: 340px;
+    height: 40px;
+    background-color: #000;
+    border-radius: 100%;
+    }
+
+    
