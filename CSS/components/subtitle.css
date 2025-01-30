@@ -5,12 +5,11 @@
     color: #ffffff;
 }
 
-.subtitle2 {
-    font-family: "press start 2p" , sans-serif;
+.subtitle.-second {
+    color: #FFF;
+    text-align: center;
+    text-shadow: none;
     font-size: 40px;
-    color: #ffffff;
-    justify-content: center;
-    display: flex;
 
 }
 .ability {
