@@ -1,0 +1,10 @@
+.skills-tec {
+    font-family: "press start 2p" , sans-serif;
+    color: #fff;
+    font-size: 25px;
+    display: flex;
+
+}
+.skills-tec.-icon {
+    margin-right: 25px;
+}

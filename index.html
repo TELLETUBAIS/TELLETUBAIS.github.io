@@ -13,11 +13,11 @@
     <link rel="stylesheet" href="CSS/components/section.css">
     <link rel="stylesheet" href="CSS/components/button.css">
     <link rel="stylesheet" href="CSS/components/title.css">
-    <link rel="stylesheet" href="CSS/components/subtitle.css">
+    <link rel="stylesheet" href="CSS/components/main-subtitle.css">
     <link rel="stylesheet" href="CSS/components/box.css">
     <link rel="stylesheet" href="CSS/components/action.css">
-    <link rel="stylesheet" href="CSS/components/contents.css">
-    <link rel="stylesheet" href="CSS/components/html.css">
+    <link rel="stylesheet" href="CSS/components/skills-tec.css">
+    <link rel="stylesheet" href="CSS/components/progress-bar.css">
 </head>
 <body>
     <header class="header">
@@ -35,7 +35,7 @@
         <div class="wrapper">
              <div class="box"> <!-- BOX SEM CONTEUDO-->
                 <h1 class="title">GUILHERME SALVADOR<!-- titulo--></h1>
-                <h2 class="subtitle"> FrontEnd Developer<!-- subtitulo--></h2>
+                <h2 class="main-subtitle"> FrontEnd Developer<!-- subtitulo--></h2>
              </div >
 
             <div class="navigation">
@@ -45,23 +45,18 @@
         </div>
     </section>
     <section class="section">
-        <h2 class="subtitle -second">Skills</h2>
-
-        <div class="contents">
-              
-            <a class="html" href="#" class="progressbar">html</a>
-            <a class="css" href="#" >css</a>
-            <a class="JavaScript" href="#" >JavaScript</a>
-            <a class="React" href="#" >React</a>
-            <a class="NodeJS" href="#" >NodeJS</a>
-            <a class="TDD" href="#" >TDD</a>
-            <a class="Rest-APi" href="#" >Rest-APi</a>
-            <a class="ux" href="#" >ux</a>
-
-
-        </div>
-        <div class="contents">
-        </div>
+        <h2 class="main-subtitle -second">Skills</h2>
+        
+        <dl class="skills-tec"><!-- description list-->    
+            
+            <dd class="icon"><!--discription img-->
+                <img src="img/ico_html5.png" alt="logo do hmtl5 em pixel art">
+            </dd>
+            <dt class="subtitle">html</dt><!--description text-->
+            <dd>
+                <progress class="progress-bar" value="70" max="100" ></progress>
+            </dd>
+        </dl>
     </section>
 </body>
 </html>
