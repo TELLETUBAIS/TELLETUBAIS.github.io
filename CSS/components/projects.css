@@ -1,0 +1,26 @@
+.projects {
+    width: 280px;
+    height: 280px;
+    box-sizing: border-box;
+    margin-right: 156px;
+
+}
+
+.projects .logo-firedlabs {
+    padding: 15px 15px;
+    background-color: #7C5E99;
+    box-shadow: 10px 10px 0px #FFFF;
+
+}
+.projects .logo-collabcode {
+    padding: 15px 15px;
+    background-color: #4C5B84;
+    box-shadow: 10px 10px 0px #FFFF;
+
+}
+.projects .logo-project {
+    padding: 15px 15px;
+    background-color: #4D6D4D;
+    box-shadow: 10px 10px 0px #FFFF;
+
+}
