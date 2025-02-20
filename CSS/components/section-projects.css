@@ -1,0 +1,19 @@
+.section-projects {
+    padding: 15px;
+    display: flex;
+    width: 280px;
+    height: 280px;
+    align-items: center;
+    justify-content: center;
+    background-color: #7C5E99;
+    box-shadow: 10px 10px 0px #FFFF;
+}
+.section-projects.-blue{
+    box-shadow: 10px 10px 0px #FFFF;
+    background-color: #4C5B84;
+}
+.section-projects.-green{
+    box-shadow: 10px 10px 0px #FFFF;
+    background-color: #3B4E44;
+
+}
