@@ -12,5 +12,8 @@
 }
 .main-section.-firstborder {
     border-bottom: 10px solid #3A4042;
-
+}
+.main-section.-secondborder{
+    background-color:#677A73 ;
+    border-bottom: #000000;
 }
