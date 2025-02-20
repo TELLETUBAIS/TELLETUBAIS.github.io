@@ -7,9 +7,10 @@
 .main-section .main-subtitle {
     margin-bottom: 60px;
 }
-.sub-main-section {
+.main-section.-black {
     background:  #000000;;
-    padding-top: 50px;
+}
+.main-section.-firstborder {
     border-bottom: 10px solid #3A4042;
-    height: 530px;
+
 }
