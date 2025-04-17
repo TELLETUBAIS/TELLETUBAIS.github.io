@@ -4,9 +4,11 @@ body {
 }
 body, h1, h2, h3, figure {
     margin: 0px;
+    padding: 0px;
 }
-.button {
+button {
     border: none;
     font-family: inherit;
 }
+
 
