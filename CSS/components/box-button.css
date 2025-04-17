@@ -12,6 +12,7 @@
 .box-button:hover {
     background-color: #3a6836;
     transform: scale(1.05);
+    cursor: pointer;
 }
 
 .box-button.-full{
@@ -20,4 +21,7 @@
     height: 60px;
     font-size: 25px;
     color: white;
+}
+.box-button.-full:hover{
+    transform: scale(1.01);
 }
