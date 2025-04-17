@@ -13,3 +13,16 @@
     background-color: #3a6836;
     transform: scale(1.05);
 }
+
+.box-button.-send{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: #D8D80D;
+    width: 1360px;
+    height: 60px;
+    font-size: 25px;
+    color: white;
+    padding: 0;
+    
+
+}
